@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog12 {
     public static void main(String[] args) {
         int n = 3;

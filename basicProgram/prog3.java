@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog3 {
     public static void main(String[] args) {
         int x = 30,y = 10;

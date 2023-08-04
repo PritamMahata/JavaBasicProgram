@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog2 {
     public static void main(String[] args) {
         int x = 25,i=15,k;

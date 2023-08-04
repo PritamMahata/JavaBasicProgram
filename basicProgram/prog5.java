@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog5 {
     public static void main(String[] args) {
         int n = 13;

@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog13 {
     public static void main(String[] args) {
         int level = 0;

@@ -1,7 +1,9 @@
+package operator_constructor;
+
 //Java Program to demonstrate the working of a banking-system
 //where we deposit and withdraw amount from our account.
 // this is edited comment 
-//Creating an Account class which has deposit() and withdraw() methods
+//Creating an operator_constructor.Account class which has deposit() and withdraw() methods
 class Account {
     int acc_no;
     String name;

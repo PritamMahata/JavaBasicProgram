@@ -1,3 +1,5 @@
+package basicProgram;
+
 import java.util.Scanner;
 public class prog9 {
     public static void main(String[] args) {

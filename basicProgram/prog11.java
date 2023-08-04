@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog11 {
     public static void main(String[] args) {
         int marks = 72;

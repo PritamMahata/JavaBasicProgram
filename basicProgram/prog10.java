@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog10 {
     public static void main(String[] args) {
         int number = 24;

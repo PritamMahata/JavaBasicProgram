@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog19 {
     public static void main(String[] args) {
         int term = 6;

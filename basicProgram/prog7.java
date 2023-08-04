@@ -1,3 +1,5 @@
+package basicProgram;
+
 public class prog7 {
     public static void main(String[] args) {
         int a = -1, b = 6, c = 1;
