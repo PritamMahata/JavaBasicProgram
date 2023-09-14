@@ -6,6 +6,8 @@ interface numbers{
 class sum implements numbers{
     public int process(int a, int b){
         return a+b;
+
+
     }
 }
 class average implements numbers{
@@ -21,4 +23,3 @@ public class task {
         System.out.println(avg.process(12,15));
     }
 }
-
