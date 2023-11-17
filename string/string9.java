@@ -1,9 +1,15 @@
 package string;
+
+import java.util.Scanner;
+
 // replace word from a string
 public class string9 {
+
+
     public static void main(String[] args) {
-        String s = "java is a programming language. java is a platform.";
-        String replaceString = s.replace("java","C");
+        Scanner l = new Scanner(System.in);
+        String s = "C is a programming language. C is platform independence.";
+        String replaceString = s.replace("C","java");
         System.out.println(replaceString);
     }
 }

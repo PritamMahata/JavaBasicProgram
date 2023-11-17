@@ -4,7 +4,6 @@ class one{
         System.out.println("inside the class one");
     }
 }
-
 class two extends one{
     void printtwo(){
         System.out.println("inside the class two");
